@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abhisheksolanki1020@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1j--f6bOKu7zvTMvHTLi8QCgFMMxaccBF/view?usp=sharing](https://drive.google.com/file/d/1j--f6bOKu7zvTMvHTLi8QCgFMMxaccBF/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1j--f6bOKu7zvTMvHTLi8QCgFMMxaccBF/view?usp=sharing](https://drive.google.com/file/d/1tCg8poSlmD-uHdvAUT2vjEdVFW_Dd_fe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
