@@ -1,6 +1,9 @@
-<h1 align="center">Hi There 👋, I'm Abhishek Pratap Solanki</h1>
-<h3 align="center">Aspiring Full-stack Web Developer at Masai School</h3>
-
+<img align="center" height="250px" width="95%"
+src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" alt="abhishek07788" />
+<h1 align="left">Hi There 👋, I'm Abhishek Pratap Solanki</h1>
+<h3 align="left">Aspiring Full-stack Web Developer at Masai School</h3>
+</br>
+</br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek07788&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek07788" /> </p>
 
 - 🔭 Individual Project [LYST Website - Clone](https://github.com/Abhishek07788/impartial-honey-6054/tree/main/lyst.com)
