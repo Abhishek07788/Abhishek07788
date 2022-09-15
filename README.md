@@ -1,5 +1,5 @@
 <img align="center" height="250px" width="95%"
-src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif" alt="abhishek07788" />
+src="" alt="abhishek07788" />
 <h1 align="left">Hi There 👋, I'm Abhishek Pratap Solanki</h1>
 <h3 align="left">Aspiring Full-stack Web Developer at Masai School</h3>
 </br>
