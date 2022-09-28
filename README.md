@@ -18,11 +18,11 @@ solving skills.</h4>
 
 - 🔭 Individual Project [LYST Website - Clone](https://github.com/Abhishek07788/impartial-honey-6054/tree/main/lyst.com)
 
-- 🌱 I’m currently learning **React Advanced**
-
 - 👯 Group Project  [Animoto: Free Video Maker - Clone](https://github.com/rohan209547mourya/deeply-tub-2367)
 
 - 👯 Group Project  [CoShedule Website - Clone](https://github.com/Abhishek07788/CoShedule-Website-Project-)
+
+- 🌱 I’m currently learning **React Advanced**
 
 - 💬 Ask me about **Fronted**
 
