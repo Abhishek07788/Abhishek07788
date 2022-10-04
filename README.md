@@ -18,6 +18,8 @@ solving skills.</h4>
 
 - 🔭 Individual Project [LYST Website - Clone](https://github.com/Abhishek07788/impartial-honey-6054/tree/main/lyst.com)
 
+- 👯 Group Project  [Bitrix24 Website - Clone](https://github.com/amitchouhan948/possible-temper-2642)
+
 - 👯 Group Project  [Animoto: Free Video Maker - Clone](https://github.com/rohan209547mourya/deeply-tub-2367)
 
 - 👯 Group Project  [CoShedule Website - Clone](https://github.com/Abhishek07788/CoShedule-Website-Project-)
