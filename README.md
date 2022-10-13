@@ -13,7 +13,7 @@ solving skills.</h4>
 </br>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek07788&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek07788" /> </p>
-<img align="right" width="400px"  src="https://user-images.githubusercontent.com/104199818/195110141-01f77ff9-c0ad-446a-a2ef-527181ce870b.png" alt="3d img"/>
+<img align="right" width="400px"  src="https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png" alt="3d img"/>
 
 - 🧷 My Portfolio https://abhishek07788.github.io 
 
