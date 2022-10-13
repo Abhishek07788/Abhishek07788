@@ -25,7 +25,7 @@ solving skills.</h4>
 
 - 👯 Group Project  [CoShedule Website - Clone](https://github.com/Abhishek07788/CoShedule-Website-Project-) 
 
-- 🌱 I’m currently learning **React Advanced**
+- 🌱 I’m currently learning **NEM Advanced**
 
 - 💬 Ask me about **Fronted**
 
