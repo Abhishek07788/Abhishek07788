@@ -48,6 +48,7 @@ solving skills.</h4>
 
 <p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek07788&show_icons=true&locale=en&theme=tokyonight" alt="abhishek07788" /></p>
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Abhishek07788&theme=github" height ="307"/>
+<img align="center" width="90%" src="https://activity-graph.herokuapp.com/graph?username=Abhishek07788&theme=github" height ="307"/>
 
-<p><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek07788&show_icons=true&locale=en&theme=tokyonight" alt="abhishek07788" /></p>
+<p><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek07788&theme=tokyonight
+" alt="abhishek07788" /></p>
