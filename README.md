@@ -50,5 +50,8 @@ src="https://github-readme-stats.vercel.app/api?username=abhishek07788&show_icon
 src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek07788&show_icons=true&locale=en&layout=compact" alt="abhishek07788" /></p>
 
 <p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek07788&" alt="abhishek07788" /></p>
+🛠 Current Stats:
 
+| ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek07788&show_icons=true&locale=en&theme=tokyonight) | ![Abhishek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek07788&theme=tokyonight) |
+| :---: | :---: |
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Abhishek07788&theme=github" height ="307"/>
