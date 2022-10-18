@@ -6,7 +6,7 @@ alt="😎"/>
 
 <h3 align="left">Aspiring Full-stack Web Developer at Masai School</h3>
 <h4>Full Stack Developer with hands on experience in
-building cool React Apps. Works efficiently both in
+building React Apps. Works efficiently both in
 frontend as well as backend and is proficient in
 Data Structure and Algorithms with problem
 solving skills.</h4>
