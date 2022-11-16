@@ -15,21 +15,23 @@ solving skills.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek07788&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek07788" /> </p>
 <img align="right" width="400px"  src="https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png" alt="3d img"/>
 
-- 🧷 My Portfolio https://abhishek07788.github.io 
+- 💼 My Portfolio https://abhishek07788.github.io 
 
-- 👯 Group Project  [Bitrix24 Website - Clone](https://github.com/amitchouhan948/possible-temper-2642)
+- 🤝 Group Project  [Beautyhub Website](https://github.com/Sagarsandbhor17/Beautyhub)
 
-- 🔭 Individual Project [LYST Website - Clone](https://github.com/Abhishek07788/impartial-honey-6054/tree/main/lyst.com)
+- 🤝 Group Project  [Bitrix24 Website - Clone](https://github.com/amitchouhan948/possible-temper-2642) 
 
-- 👯 Group Project  [Animoto: Free Video Maker - Clone](https://github.com/rohan209547mourya/deeply-tub-2367)
+- 👨‍💻 Individual Project [LYST Website - Clone](https://github.com/Abhishek07788/impartial-honey-6054/tree/main/lyst.com)
 
-- 👯 Group Project  [CoShedule Website - Clone](https://github.com/Abhishek07788/CoShedule-Website-Project-) 
+- 🤝 Group Project  [Animoto: Free Video Maker - Clone](https://github.com/rohan209547mourya/deeply-tub-2367)
 
-- 🌱 I’m currently learning **NEM Advanced**
+- 🤝 Group Project  [CoShedule Website - Clone](https://github.com/Abhishek07788/CoShedule-Website-Project-) 
 
-- 💬 Ask me about **Fronted**
+- 👨‍💻 I’m currently learning **NEM Advanced**
 
-- 📫 How to reach me **abhisheksolanki1020@gmail.com**
+- 📧 Ask me about **Fronted**
+
+- ❓ How to reach me **abhisheksolanki1020@gmail.com**
 
 - 📄 Resume [https://drive.google.com/file/d/1j--f6bOKu7zvTMvHTLi8QCgFMMxaccBF/view?usp=sharing](https://drive.google.com/file/d/11cBo69VOoq3wcwtPFDMv0t6R7MeHgrB8/view?usp=sharing)
 
