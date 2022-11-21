@@ -5,11 +5,12 @@ alt="😎"/>
 </h1>
 
 <h3 align="left">Aspiring Full-stack Web Developer at Masai School</h3>
-<h4>Full Stack Developer with hands on experience in
-building React Apps. Works efficiently both in
-frontend as well as backend and is proficient in
-Data Structure and Algorithms with problem
-solving skills.</h4>
+<h4>Software professional with expertise in MERN technology,
+HTML, CSS, JavaScript, and experienced in solving more than
+400+ Dsa problems. Looking forward to being a part of an
+organization that allows constant learning and development
+of my technical and management skills. Experienced in
+working on various projects through remote collaboration.</h4>
 </br>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek07788&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek07788" /> </p>
