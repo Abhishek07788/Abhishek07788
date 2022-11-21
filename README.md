@@ -19,13 +19,13 @@ solving skills.</h4>
 
 - 🤝 Group Project  [Beautyhub Website](https://github.com/Sagarsandbhor17/Beautyhub)
 
-- 🤝 Group Project  [Bitrix24 Website - Clone](https://github.com/amitchouhan948/possible-temper-2642) 
+- 🤝 Group Project  [Bitrix24 - Clone](https://github.com/amitchouhan948/possible-temper-2642) 
 
-- 👨‍💻 Individual Project [LYST Website - Clone](https://github.com/Abhishek07788/impartial-honey-6054/tree/main/lyst.com)
+- 👨‍💻 Individual Project [LYST - Clone](https://github.com/Abhishek07788/impartial-honey-6054/tree/main/lyst.com)
 
 - 🤝 Group Project  [Animoto: Free Video Maker - Clone](https://github.com/rohan209547mourya/deeply-tub-2367)
 
-- 🤝 Group Project  [CoShedule Website - Clone](https://github.com/Abhishek07788/CoShedule-Website-Project-) 
+- 🤝 Group Project  [CoShedule - Clone](https://github.com/Abhishek07788/CoShedule-Website-Project-) 
 
 - 👨‍💻 I’m currently learning **NEM Advanced**
 
