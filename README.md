@@ -65,4 +65,4 @@ working on various projects through remote collaboration.</h4>
 <p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek07788&show_icons=true&locale" alt="abhishek07788" /></p>
 
 <p><img align="center" width="90%"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek07788&show_icons=true&locale=en&layout=compact&" alt="Abhishek07788" /></p>
+src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek07788&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Abhishek07788" /></p>
