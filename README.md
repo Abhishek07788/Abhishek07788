@@ -5,7 +5,7 @@ alt="😎"/>
 </h1>
 <h2 align="left">Full Stack Developer at Zyod</h2>
 
-<h3 align="left">Experienced Full Stack Web Developer with over 3 years in the Fullstack stack. Proficient in JavaScript, Node js, HTML, CSS, React, Next.js, Express js etc.. Skilled in designing scalable APIs and optimizing database queries. Detail-oriented, collaborative, and dedicated to delivering high-quality code, looking for a Software developer role.</h4>
+<h3 align="left">Experienced Full Stack Web Developer with over 2 years of experience in Full Stack. Proficient in JavaScript, Node.js, HTML, CSS, React, Next.js, Express.js, Sequelize, PostgreSQL, etc.. Skilled in designing scalable APIs and optimizing database queries. Detail-oriented, collaborative, and dedicated to delivering high-quality code, looking for a Software developer role.</h4>
 </br>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek07788&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek07788" /> </p>
