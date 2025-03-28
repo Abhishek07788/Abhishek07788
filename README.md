@@ -3,17 +3,9 @@ src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" a
 I'm Abhishek Pratap Solanki <img width="45px" src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330"
 alt="😎"/>
 </h1>
-<h2 align="left">Full Stack Developer at DigitEd labs private limited.</h2>
+<h2 align="left">Full Stack Developer at Zyod</h2>
 
-<h3 align="left">Experienced Full Stack Web Developer with over 2 years of
-proficiency in the MERN stack. Skilled in JavaScript, HTML,
-CSS, React, and Next.js, with additional expertise in React
-Native. Successfully tackled 400+ Data Structure and
-Algorithm challenges, showcasing exceptional problem-
-solving abilities. Demonstrated capability in designing
-scalable APIs and optimizing database queries. Detail-
-oriented and collaborative, committed to delivering high-
-quality code and continuous improvement.</h4>
+<h3 align="left">Experienced Full Stack Web Developer with over 3 years in the Fullstack stack. Proficient in JavaScript, Node js, HTML, CSS, React, Next.js, Express js etc.. Skilled in designing scalable APIs and optimizing database queries. Detail-oriented, collaborative, and dedicated to delivering high-quality code, looking for a Software developer role.</h4>
 </br>
 </br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek07788&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek07788" /> </p>
