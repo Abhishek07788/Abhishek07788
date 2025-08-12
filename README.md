@@ -29,11 +29,11 @@ alt="😎"/>
 
 - ❓ How to reach me **abhisheksolanki1020@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1j--f6bOKu7zvTMvHTLi8QCgFMMxaccBF/view?usp=sharing](https://drive.google.com/file/d/11cBo69VOoq3wcwtPFDMv0t6R7MeHgrB8/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1sEebWTviprnug3ZUUUIlnmhLAzygBBxB/view?usp=drivesdk](https://drive.google.com/file/d/1sEebWTviprnug3ZUUUIlnmhLAzygBBxB/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishekpratapsolanki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhishekpratapsolanki" height="30" width="40" /></a>
+<a href="https://www.linkedin.co/www.linkedin.com/in/abhishekpratapsolanki/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhishekpratapsolanki" height="30" width="40" /></a>
 <a href="https://codesandbox.com/abhishek07788" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="abhishek07788" height="30" width="40" /></a>
 </p>
 
