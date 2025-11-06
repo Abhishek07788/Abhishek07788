@@ -34,22 +34,39 @@ Full Stack Developer with 2.4+ years of experience building scalable, user-focus
 
 <br/>
 
-🛠 **Languages and Tools:**
-<p align="left">
-<!-- Your icons remain same — no change needed -->
+### 🛠 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img width="95%" src="https://github-readme-stats.vercel.app/api?username=abhishek07788&show_icons=true&count_private=true&theme=tokyonight" />
+    </td>
+    <td align="center" width="50%">
+      <img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=abhishek07788&theme=tokyonight" />
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="50%">
+    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek07788&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+  </td>
+  <td align="center" width="50%">
+    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=abhishek07788&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+  </td>
+</tr>
+</table>
+
+---
+
+### 🔥 GitHub Contribution Graph
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek07788&theme=tokyo-night" />
 </p>
 
-<br/>
+---
 
-### 🛠 GitHub Stats (Reduced Size)
-<p>
-<img align="center" width="60%" src="https://github-readme-stats.vercel.app/api?username=abhishek07788&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-<img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek07788&theme=tokyonight" />
-</p>
-
-<p>
-<img align="center" width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek07788&layout=compact&theme=tokyonight" />
+### ⭐ Profile Badges
+<p align="center">
+  <img src="https://img.shields.io/github/followers/abhishek07788?label=Followers&style=social" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/abhishek07788?label=Stars&style=social" />
 </p>
