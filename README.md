@@ -37,7 +37,7 @@ Full Stack Developer with 2.4+ years of experience building scalable, user-focus
 
   <!-- LeetCode -->
   <a href="https://leetcode.com/u/abhishek_pratap_solanki/" target="_blank" rel="noreferrer">
-    <img align="center" src="https://skillicons.dev/icons?i=leetcode" height="35" alt="LeetCode"/>
+    <img align="center" src="https://github.com/user-attachments/assets/7c7afaa1-7916-4582-8fd5-80d910ab87c3"  height="35" alt="LeetCode"/>
   </a>
 
   <!-- GitHub -->
@@ -47,9 +47,8 @@ Full Stack Developer with 2.4+ years of experience building scalable, user-focus
 
   <!-- CodeSandbox -->
   <a href="https://codesandbox.io/u/abhishek07788" target="_blank" rel="noreferrer">
-    <img align="center" src="https://skillicons.dev/icons?i=codesandbox" height="35" alt="CodeSandbox"/>
+    <img align="center" src="https://github.com/user-attachments/assets/6e8b69ec-8fb6-4739-90e2-f22553c95e66"  height="35" alt="CodeSandbox"/>
   </a>
-
 </p>
 
 
