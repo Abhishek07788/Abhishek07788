@@ -16,7 +16,8 @@ Full Stack Developer with 2.4+ years of experience building scalable, user-focus
 - 💼 My Portfolio: https://abhishek07788.github.io  
 - 🤝 Group Project: [Beautyhub Website](https://github.com/Sagarsandbhor17/Beautyhub)  
 - 🤝 Group Project: [Bitrix24 - Clone](https://github.com/amitchouhan948/possible-temper-2642)  
-- 👨‍💻 Individual Project: [LYST - Clone](https://github.com/Abhishek07788/impartial-honey-6054/tree/main/lyst.com)  
+- 👨‍💻 Individual Project: [LYST - Clone](https://github.com/Abhishek07788/impartial-honey-6054/tree/main/lyst.com)
+- 👨‍💻 Individual Project: [Link-Sharing-App](https://github.com/Abhishek07788/Link-Sharing-App)  
 - 📧 Reach me: **abhisheksolanki1020@gmail.com**  
 - 📄 Resume: https://drive.google.com/file/d/1sEebWTviprnug3ZUUUIlnmhLAzygBBxB/view?usp=drivesdk  
 
