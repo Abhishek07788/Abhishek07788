@@ -22,7 +22,8 @@ Full Stack Developer with 2.4+ years of experience building scalable, user-focus
 
 <br/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">
+🌐 Professional Links:</h3>
 <p align="left">
 
   <!-- LinkedIn -->
