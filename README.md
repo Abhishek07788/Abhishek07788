@@ -24,13 +24,34 @@ Full Stack Developer with 2.4+ years of experience building scalable, user-focus
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishekpratapsolanki/" target="_blank" rel="noreferrer">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://codesandbox.io/u/abhishek07788" target="_blank" rel="noreferrer">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" height="30" width="40" />
-</a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/abhishekpratapsolanki/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:abhisheksolanki1020@gmail.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="35" alt="Email"/>
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/abhishek_pratap_solanki/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://skillicons.dev/icons?i=leetcode" height="35" alt="LeetCode"/>
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/Abhishek07788" target="_blank" rel="noreferrer">
+    <img align="center" src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub"/>
+  </a>
+
+  <!-- CodeSandbox -->
+  <a href="https://codesandbox.io/u/abhishek07788" target="_blank" rel="noreferrer">
+    <img align="center" src="https://skillicons.dev/icons?i=codesandbox" height="35" alt="CodeSandbox"/>
+  </a>
+
 </p>
+
 
 <br/>
 
