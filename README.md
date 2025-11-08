@@ -56,7 +56,7 @@ Full Stack Developer with 2.4+ years of experience building scalable, user-focus
 
 <br/>
 
-### 🛠 GitHub Stats
+### 🛠 GitHub Stats.
 
 <table align="center">
   <tr>
