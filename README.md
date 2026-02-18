@@ -14,7 +14,7 @@ Full Stack Developer with 2.4+ years of experience building scalable, user-focus
 <img align="right" width="350px" src="https://user-images.githubusercontent.com/104199818/195697121-4d08fe1c-c830-4feb-82e3-c3d5d3e246c9.png" alt="3d img"/>
 
 - 💼 My Portfolio: https://abhishek07788.github.io
-- Company Projects: [ZYOD ERP Web and GRN/DC APP]([https://github.com/Sagarsandbhor17/Beautyhub](https://www.linkedin.com/posts/zyod_zyod-fashiontech-techdriven-activity-7429136878643097600-RwpZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGRb0RABXe_M4hOyXH0gYsXASz8sZfbCte8))  
+- Company Projects: [ZYOD ERP Web and GRN/DC APP](https://www.linkedin.com/posts/zyod_zyod-fashiontech-techdriven-activity-7429136878643097600-RwpZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGRb0RABXe_M4hOyXH0gYsXASz8sZfbCte8)  
 - 🤝 Group Project: [Beautyhub Website](https://github.com/Sagarsandbhor17/Beautyhub)  
 - 🤝 Group Project: [Bitrix24](https://github.com/amitchouhan948/possible-temper-2642)  
 - 👨‍💻 Individual Project: [LYST](https://github.com/Abhishek07788/impartial-honey-6054/tree/main/lyst.com)
