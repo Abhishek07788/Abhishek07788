@@ -1,5 +1,5 @@
 <h1 align="left">Hi There <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋"/>, I'm Abhishek Pratap Solanki 😎</h1>
-<h2 align="left">Full Stack Developer at Zyod</h2>
+<h2 align="left">Full Stack Developer at Animall</h2>
 
 <p align="left">
 Full Stack Developer with 2.4+ years of experience building scalable, user-focused web platforms using Next.js, React.js, Node.js, Express, PostgreSQL, and MongoDB. I specialize in translating real business workflows into fast, intuitive, and reliable digital products. Known for improving performance, refining UI/UX, and collaborating closely with teams to deliver features that actually move product and business metrics. I aim to write clean code, solve real problems, and keep improving every day.
