@@ -6,7 +6,7 @@
 <h3 align="left">Senior Full Stack Developer • 3+ Years of Experience</h3>
 
 <p align="left">
-I'm a Full Stack Developer with 3+ years of experience building scalable, user-centric web applications using <strong>Next.js</strong>, <strong>React.js</strong>, <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>PostgreSQL</strong>, and <strong>MongoDB</strong>.
+I'm a Full Stack Developer with 3+ years of experience building scalable, user-centric web applications using <strong>Next.js</strong>, <strong>React.js</strong>, <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>PostgreSQL</strong>, <strong>Sequalize</strong>, <strong>E2E Networks</strong>, <strong>AWS</strong> and <strong>MongoDB</strong>.
 
 I enjoy transforming complex business requirements into fast, intuitive, and reliable digital products. My focus is on writing clean, maintainable code, optimizing application performance, improving user experience, and collaborating closely with cross-functional teams to deliver features that create measurable business impact.
 
