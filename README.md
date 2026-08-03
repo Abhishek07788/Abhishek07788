@@ -1,8 +1,16 @@
-<h1 align="left">Hi There <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋"/>, I'm Abhishek Pratap Solanki 😎</h1>
-<h2 align="left">Full Stack Developer at Animall</h2>
+<h1 align="left">
+  Hi There <img width="40px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="👋" />,
+  I'm Abhishek Pratap Solanki
+</h1>
+
+<h3 align="left">Senior Full Stack Developer • 3+ Years of Experience</h3>
 
 <p align="left">
-Full Stack Developer with 2.4+ years of experience building scalable, user-focused web platforms using Next.js, React.js, Node.js, Express, PostgreSQL, and MongoDB. I specialize in translating real business workflows into fast, intuitive, and reliable digital products. Known for improving performance, refining UI/UX, and collaborating closely with teams to deliver features that actually move product and business metrics. I aim to write clean code, solve real problems, and keep improving every day.
+I'm a Full Stack Developer with 3+ years of experience building scalable, user-centric web applications using <strong>Next.js</strong>, <strong>React.js</strong>, <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>PostgreSQL</strong>, and <strong>MongoDB</strong>.
+
+I enjoy transforming complex business requirements into fast, intuitive, and reliable digital products. My focus is on writing clean, maintainable code, optimizing application performance, improving user experience, and collaborating closely with cross-functional teams to deliver features that create measurable business impact.
+
+I'm passionate about solving real-world problems, continuously learning new technologies, and building software that makes a difference.
 </p>
 
 <br/>
@@ -60,24 +68,19 @@ Full Stack Developer with 2.4+ years of experience building scalable, user-focus
 
 ### 🛠 GitHub Stats.
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img width="95%" src="https://github-readme-stats.vercel.app/api?username=abhishek07788&show_icons=true&count_private=true&theme=tokyonight" />
-    </td>
-    <td align="center" width="50%">
-      <img width="95%" src="https://github-readme-streak-stats.herokuapp.com?user=abhishek07788&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="50%">
-    <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek07788&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-  </td>
-  <td align="center" width="50%">
-    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=abhishek07788&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhishek07788/Abhishek07788/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhishek07788/Abhishek07788/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%">
+  <img src="https://raw.githubusercontent.com/Abhishek07788/Abhishek07788/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhishek07788/Abhishek07788/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%">
+  <img src="https://raw.githubusercontent.com/Abhishek07788/Abhishek07788/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="49%">
+</p>
 
 ---
 
